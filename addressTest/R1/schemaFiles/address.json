@@ -1,0 +1,1 @@
+{"type":"object","properties":{"country":{"type":"string"},"city":{"type":"string"},"street":{"type":"string"}},"required":["country","city","street"]}
